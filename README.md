@@ -21,8 +21,6 @@ java -cp out com.tecnomovil.Main
 6. Detección de rutas críticas con umbral simulado.
 
 ## Integrantes
-- Daniela Cataño Hernández — [agregar URL real del repositorio]
-- Anderson Julián Valencia Estrada — [agregar URL real del repositorio]
-- [Nombre del tercer integrante] — [agregar URL real del repositorio]
+- Daniela Cataño Hernández 
+- Anderson Julián Valencia Estrada 
 
-Los enlaces deben completarse con las URL reales antes de entregar. Cada integrante debe publicar el informe del grupo en su propio repositorio.

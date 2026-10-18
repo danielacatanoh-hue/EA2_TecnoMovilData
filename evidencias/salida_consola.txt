@@ -1,0 +1,42 @@
+=== TECNOMOVIL DATA: ANALISIS FUNCIONAL ===
+Total de registros: 12000
+
+1. Afluencia por estación (top 5):
+Aeropuerto: 740 entradas
+Parque: 719 entradas
+Museo: 718 entradas
+Sur: 711 entradas
+Norte: 698 entradas
+
+2. Horas de mayor flujo (top 5):
+12:00 - 417 entradas
+10:00 - 412 entradas
+14:00 - 404 entradas
+09:00 - 402 entradas
+05:00 - 395 entradas
+
+3. Rutas más utilizadas:
+R5: 2055 eventos
+R1: 2034 eventos
+R4: 1999 eventos
+R3: 1989 eventos
+R6: 1975 eventos
+R2: 1948 eventos
+
+4. Patrones de viaje por usuario (primeros 3 usuarios, 8 estaciones):
+Usuario 1: Norte -> Universidad -> Aeropuerto -> Parque -> Universidad -> Sur -> Industria -> Parque
+Usuario 2: Aeropuerto -> Aeropuerto -> Universidad -> Industria -> Sur -> Museo -> Aeropuerto -> Museo
+Usuario 3: Parque -> Sur -> Universidad -> Sur -> Museo -> Industria -> Centro -> Hospital
+
+5. Tiempo promedio entre estaciones diferentes: 26.30 minutos
+
+6. Estado de las rutas (umbral: 1150 entradas):
+R5: 1199 entradas -> CRITICA
+R1: 1180 entradas -> CRITICA
+R4: 1145 entradas -> Normal
+R6: 1143 entradas -> Normal
+R3: 1127 entradas -> Normal
+R2: 1124 entradas -> Normal
+
+Validación: la lista original conserva 12000 registros.
+Ejecución finalizada correctamente.
